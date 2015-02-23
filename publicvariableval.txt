@@ -1,0 +1,15 @@
+7 "call"
+
+7 "compile"
+
+7 "spawn"
+
+7 "exec"
+
+7 "loadFile"
+
+7 "preprocessFile"
+
+7 ".sqf"
+
+3 "" !="<NULL-object>" !="^\[[-"a-z0-9,<>.[].*\]$"

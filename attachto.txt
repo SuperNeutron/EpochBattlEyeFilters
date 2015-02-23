@@ -1,0 +1,7 @@
+3 "" !WeaponHolderSimulated !Shot !"(Tipi|StorageShelf|LockBox|FirePlace|PlotPole)_EPOCH" !"LockBox_Ghost_EPOCH" !"CinderWallHalf_Ghost_EPOCH" !"(WoodFloor|WoodLargeWall|WoodStairs)_Ghost_EPOCH" !"Foundation_Ghost_EPOCH"
+
+7 "Epoch_Male_F"
+
+7 "Epoch_Female_F"
+
+

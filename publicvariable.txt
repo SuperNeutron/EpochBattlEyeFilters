@@ -1,0 +1,5 @@
+7 "" !"EPOCH_" 
+
+7 "EPOCH_" !"EPOCH_Loot" !"(UP|SAVE)BUILD" !"(say3D|switchMove|storeCrypto|TEMPOBJ)_PVS"  !"(load|revive|dead|push)Player_PVS" !"(build|equipped)Item_PVS" !"EPOCH_GROUP_(Upgrade|Player|create|Delete|Invite)_PVS" !"(lock|pack)Storage_PVS" !"(unlock|lock|fill|repair)Vehicle_PVS" !"(knockDownTree|destroyTrash|MAKETRADEREQ|MAKETRADE|S_S_VEHICLES|MAKENPCTRADE|oneWayTeleport)"
+
+7 "EPOCH_Loot" !"(Animal|Container|Building)"

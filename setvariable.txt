@@ -1,0 +1,1 @@
+7 "" !=(Offer|Accept|BUILD_SLOT|AI_ITEMS|TRADE_ACTIVE)
